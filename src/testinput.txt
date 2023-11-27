@@ -1,0 +1,10 @@
+main ()
+{
+bool b;
+int broj_1, broj_2;
+%Ovo je neki komentar%
+b=true;
+broj_1 = 10;
+broj_2 = 0#d20;
+b = broj_1 >= broj_2;
+}

@@ -1,0 +1,27 @@
+# Eclipse
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~
+
+# IntelliJ
+.idea/
+
+# Maven
+target/
+
+# Gradle
+build/
+
+# JUnit
+*.class
+
+# User-specific files
+*.suo
+*.user
+*.snap
+*.DS_Store
+Thumbs.db
